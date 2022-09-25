@@ -1,4 +1,8 @@
-<!-- 打字动效 -->
+<!-- 碎言碎语 -->
+<h1 align="center">免责声明</h1>
+<p align="center">静态站点演示仓库，本站严格遵守中华人民共和国相关法律。一切资源均来源于免费论坛社区，仅供大家学习交流，请勿用于商业用途！</p>
+
+<!-- 打字动效 -->                
 <h1 align="center">
   <a href="https://sunguoqi.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log('站点演示仓库')&center=true&size=14">
@@ -8,6 +12,7 @@
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 
+<!-- 分行 -->
 <br>
 
 <!-- 个人资料徽标 -->
@@ -18,23 +23,17 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=huasenjio" alt="访客统计" />
 </div>
 
-<!-- 碎言碎语 -->
-
-# 碎言碎语
-
-<p>静态站点演示仓库，本站严格遵守中华人民共和国相关法律。一切资源均来源于免费论坛社区，仅供大家学习交流，请勿用于商业用途！</p>
-
 <!-- banner -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
 <!-- 展示项目 -->
 <div align="center">
-  <!-- <a href="">
+  <a href="">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=huasenjio&repo=huasen-portal&theme=dark&bg_color=0d1117&hide_border=true" />
-  </a> -->
-  <!-- <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huasenjio&repo=huasenjio&theme=dark&bg_color=0d1117&hide_border=true" />
-  </a> -->
+  </a>
+  <a href="">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huasenjio&repo=huasen-example&theme=dark&bg_color=0d1117&hide_border=true" />
+  </a>
 </div>
 
 <!-- 访客图 -->
